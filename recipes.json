@@ -6,10 +6,10 @@
     "Cost": "",
     "Ingredients": "1 rotisserie chicken, shredded (3 to 4 cups)\n4 cups chicken stock\n1 (14.5-ounce) can diced fire-roasted tomatoes\n1 (19-ounce) can red enchilada sauce\n1 (15.25-ounce) can whole sweet corn, drained",
     "Link": "https://themodernproper.com/5-ingredient-chicken-tortilla-soup",
-    "Name": "if(or(equals(item()?['I am a_x002e__x002e__x002e_'],'Supervisor'),equals(item()?['I am a_x002e__x002e__x002e_'],'Other staff')),item()?['Your name'],'Base Camp Crew')",
+    "Name": "Jess Leach-Carroll",
     "Note": "",
     "RecipeName": "5-Ingredient Chicken Tortilla Soup",
-    "Role": "item()?['I am a_x002e__x002e__x002e_']",
+    "Role": "Supervisor",
     "Serves": "4",
     "Steps": "1. In a large soup pot, combine the shredded chicken, chicken stock, the tomatoes and their juices, the enchilada sauce, and the corn. Place the pot over high heat and bring the soup to a boil, then reduce the heat to medium-low and cook, stirring occasionally, until the tomatoes are tender, about 15 minutes. \n2. If desired, season to taste with salt and pepper.\n3. Serve the soup in bowls topped with lime juice, sour cream, shredded cheese, avocado, and chips if desired.",
     "Time": "15 min"
